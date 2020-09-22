@@ -1,0 +1,3 @@
+E:/Courses/Data stracture/Stack with array implementation/cmake-build-debug/CMakeFiles/Stack_with_array_implementation.dir
+E:/Courses/Data stracture/Stack with array implementation/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Courses/Data stracture/Stack with array implementation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

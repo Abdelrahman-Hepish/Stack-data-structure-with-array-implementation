@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Courses/Data stracture/Stack with array implementation/main.c
+stdio.h
+-
+stack.h
+E:/Courses/Data stracture/Stack with array implementation/stack.h
+
+E:/Courses/Data stracture/Stack with array implementation/stack.h
+
